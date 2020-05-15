@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomWordsList</string>
+    <string name="action_settings">Settings</string>
+    <string name="word_hint">Enter Word</string>
+    <string name="save_button">Save</string>
+    <string name="empty_word_err">Error: Enter a word to save it</string>
+
+</resources>
